@@ -1,0 +1,47 @@
+
+Smart Safety, Security and Surveillance
+
+Security & surveillance not only play a key role in ensuring the prosperity of citizens, but is also one of the prime concerns of any human being. 
+A city’s development is dependent on the well-being of its inhabitants and it’s various sub-areas include (but not limited to) home security, 
+medical emergency, city transport,
+security of women & children, tourist support, SOS alert system, environmental stress warning system, mobile pollution monitors, structural alerts, 
+disaster management, and accidental alerts systems.
+
+Leverage the power of Microsoft Azure services to accelerate your ideas and make them go live to the security market worldwide and launch impactful 
+and new generation security products that are secure and user-friendly.
+We are interested in hearing about your next disruptive idea that not only focuses on safe and secure experiences but also brings together an ecosystem of enablers to make it a reality.
+
+Resources:
+
+    App services
+    Azure Maps
+    Notification Hub
+    API Management
+    IoT
+
+
+Prerequisite
+ 1. Access azur api and API management (sample app) 
+ 2. App services information 
+ 3. CosmoDB
+
+
+Design
+* User actions
+  -> Confiure the alert configuration (default config)
+  -> Notification to user (service app)
+  -> User should be able to see , stats of last 1 hour that how many possible criminals were spotted in the camera.
+Implemetation
+  image compare (lang: C#, python, service: Azur)
+  image data storage (DB: Cosmo DB Azuer service: Azur)
+  frontend (lang: web)
+  image input
+
+
+Goals:
+	1. Criminal detection system using face recognition for home security.
+  2. 
+  
+  
+  20. Tourist support, SOS alert system, environmental stress warning system, mobile pollution monitors, structural alerts, 
+disaster management, and accidental alerts systems.
